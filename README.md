@@ -1,3 +1,6 @@
+THIS REPOSITORY IS ARCHIVED. Please see the active repository @ https://github.com/openshift/sriov-cni
+
+
    * [SR-IOV CNI plugin](#sr-iov-cni-plugin)
       * [Build](#build)
       * [Enable SR-IOV](#enable-sr-iov)
